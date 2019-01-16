@@ -18,9 +18,9 @@ pyldavis 라이브러리를 사용하여 시각화하는 코드
 
 ## requirements
 
-gensim 3.4.0
-pyLDAvis 2.1.1
-numpy 1.14.0 
+gensim 3.4.0  
+pyLDAvis 2.1.1  
+numpy 1.14.0
 
 <br>
 
