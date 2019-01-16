@@ -13,7 +13,8 @@ gensim_mallet.py에서 사용하는 파라미터를 입력받기 위한 파일
 #### pyvis.ipynb
 gensim_mallet.py에서 생성한 LDA 모델 결과를
 pyldavis 라이브러리를 사용하여 시각화하는 코드  
-*hcshin90.github.io*
+<br>
+https://hcshin90.github.io
 
 <br>
 
